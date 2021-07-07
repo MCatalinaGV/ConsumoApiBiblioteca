@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+.titulo{
+	background-color: gray;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	text-align: center; 
+}
+.tabla{
+	margin-top: 3em;
+	border-color: black;
+	border-style: solid;
+}
+.formulario{
+	margin-top: 3em;
+	background-color: gray;
+	padding-top: 2em;
+}
